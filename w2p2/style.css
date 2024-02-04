@@ -1,0 +1,84 @@
+/* #header:hover {
+background: lightblue;
+color: peru;
+padding: 100px;
+}
+
+a:link{
+    color: purple;
+}
+
+a:visited {
+    color: green;
+}
+
+a:active{
+    color: black;
+} */
+
+/* header{
+    position: static;
+    border: 3px solid black;
+} */
+/* header{
+    position: relative;
+    left: 50px;
+    top: 20px;
+    border: 2px solid green;
+} */
+
+/* h4{
+    position: fixed;
+    bottom: 20px;
+    background: brown;
+    color: white;
+}
+header{
+    position: fixed;
+    background: greenyellow;
+    text-align: center;
+    top: 10px;
+    left: 250px;
+    width: 500px;
+    color: white;
+} */
+/* 
+header{
+    position: relative;
+    border: 2px dashed red;
+    height: 200px;
+    width: 400px;
+}
+
+#header h2{
+position: absolute;
+width: 500px;
+height: 300px;
+border: 1px dashed green;
+top: 50px;
+right: 0px;
+left: 100px;
+} */
+
+#nav{
+    background: lightgoldenrodyellow;
+margin: 10px auto;
+padding: 5px;
+position: sticky;
+top: 0px;
+}
+
+#nav ul {
+    margin: 10px auto;
+}
+
+#nav ul li{
+    display: inline-block;
+    font-weight: bold;
+}
+
+#para{
+    position: sticky;
+    bottom: 50px;
+    background-color: blue;
+}
